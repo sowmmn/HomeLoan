@@ -30,4 +30,4 @@ has a borrowing estimate of $479,000.
 
 To execute 
 clone/import java file to IDE for required proj
-run Homeloan.java
+run Calculator.java
